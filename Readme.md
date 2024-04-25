@@ -1,4 +1,4 @@
-# Open Source Contribution
+# Open Source Contributions
 
 Welcome to my open source contributions! Below are my pr's I've contributed:
    
