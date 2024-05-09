@@ -2,6 +2,12 @@
 
 Welcome to my open source contributions! Below are my pr's I've contributed:
 
+[ feat: Github issues support #557 ](https://github.com/revertinc/revert/pull/557)
+
+[  fix: Replace Player List Item with Leaderboard List Item #82  ](https://github.com/formbricks/oss.gg/pull/82)
+
+[  fix: Fix hard coded page title #80  ](https://github.com/formbricks/oss.gg/pull/80)
+
  [ feat: remaining Support Pagination in CRM search API endpoints #550 ](https://github.com/revertinc/revert/pull/550) 
 
 [  feat: Support Pagination in CRM search API endpoints in HubSpot #548  ](https://github.com/revertinc/revert/pull/548)  
