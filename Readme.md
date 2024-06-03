@@ -2,6 +2,8 @@
 
 Welcome to my open source contributions! Below are my pr's I've contributed:
 
+[feat: Replace 'Show survey to % of users' slider](https://github.com/formbricks/formbricks/pull/2719)
+
 [  feat: Get LEVEL Creation to work #78 ](https://github.com/formbricks/oss.gg/pull/78)
 
 [ feat: Github issues support #557 ](https://github.com/revertinc/revert/pull/557)
