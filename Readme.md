@@ -2,6 +2,8 @@
 
 Welcome to my open source contributions! Below are my pr's I've contributed:
 
+[(Revert)  fix: corrected the link to ticketing system in docs #587 ](https://github.com/revertinc/revert/pull/587)
+
 [
 (Formbricks)  feat: Replace 'Show survey to % of users' slider](https://github.com/formbricks/formbricks/pull/2719)
 
