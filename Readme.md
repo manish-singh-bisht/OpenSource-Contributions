@@ -2,6 +2,10 @@
 
 Welcome to my open source contributions! Below are my pr's I've contributed:
 
+[(Revert)   feat: new ATS integration -GREENHOUSE, LEVER #586  ](https://github.com/revertinc/revert/pull/586)
+
+[(Revert)   feat: new accounting category- Xero, QucikBooks #592  ](https://github.com/revertinc/revert/pull/592)
+
 [(Revert)  fix: corrected the link to ticketing system in docs #587 ](https://github.com/revertinc/revert/pull/587)
 
 [
