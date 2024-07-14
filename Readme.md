@@ -2,9 +2,9 @@
 
 Welcome to my open source contributions! Below are my pr's I've contributed:
 
-[(Revert)   feat: new ATS integration -GREENHOUSE, LEVER #586  ](https://github.com/revertinc/revert/pull/586)
+[(Revert)(OPEN)   feat: new ATS integration -GREENHOUSE, LEVER #586  ](https://github.com/revertinc/revert/pull/586)
 
-[(Revert)   feat: new accounting category- Xero, QucikBooks #592  ](https://github.com/revertinc/revert/pull/592)
+[(Revert)(OPEN)   feat: new accounting category- Xero, QucikBooks #592  ](https://github.com/revertinc/revert/pull/592)
 
 [(Revert)  fix: corrected the link to ticketing system in docs #587 ](https://github.com/revertinc/revert/pull/587)
 
@@ -13,7 +13,7 @@ Welcome to my open source contributions! Below are my pr's I've contributed:
 
 [(Formbricks)   feat: Get LEVEL Creation to work #78 ](https://github.com/formbricks/oss.gg/pull/78)
 
-[(Revert) feat: Github issues support #557 ](https://github.com/revertinc/revert/pull/557)
+[(Revert)(OPEN) feat: Github issues support #557 ](https://github.com/revertinc/revert/pull/557)
 
 [(Formbricks)   fix: Replace Player List Item with Leaderboard List Item #82  ](https://github.com/formbricks/oss.gg/pull/82)
 
