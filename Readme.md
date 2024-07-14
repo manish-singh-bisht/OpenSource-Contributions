@@ -2,6 +2,8 @@
 
 Welcome to my open source contributions! Below are my pr's I've contributed:
 
+[(Revert)    feat: Support for Hubspot associations API #595  ](https://github.com/revertinc/revert/pull/595)   
+
 [(Revert)(OPEN)   feat: new ATS integration -GREENHOUSE, LEVER #586  ](https://github.com/revertinc/revert/pull/586)
 
 [(Revert)(OPEN)   feat: new accounting category- Xero, QucikBooks #592  ](https://github.com/revertinc/revert/pull/592)
