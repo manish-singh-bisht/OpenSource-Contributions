@@ -2,6 +2,8 @@
 
 Welcome to my open source contributions! Below are my pr's I've contributed:
 
+[(Tegon) Fix: Alignment issues when team name has more characters](https://github.com/tegonhq/tegon/pull/264)
+
 [(Revert)    feat: Support for Hubspot associations API #595  ](https://github.com/revertinc/revert/pull/595)   
 
 [(Revert)  feat: new ATS integration -GREENHOUSE, LEVER #586  ](https://github.com/revertinc/revert/pull/586)
