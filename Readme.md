@@ -2,6 +2,20 @@
 
 Welcome to my open source contributions! Below are my pr's I've contributed:
 
+[(Olake) feat: column selection#722](https://github.com/datazip-inc/olake/pull/722)
+
+[(Olake) feat: dynamic rps benchmarking#685](https://github.com/datazip-inc/olake/pull/685)
+
+[(Shelf-nu) feat: Filter Kits and Assets by Custody on Locations view#2226](https://github.com/Shelf-nu/shelf.nu/pull/2226)
+
+[(Probo) improvement:frontend search filter on organizations#596](https://github.com/getprobo/probo/pull/596)
+
+[(Probo) feat: Update existing slack message if access is updated in the console#577](https://github.com/getprobo/probo/pull/577)
+
+[(Olake) feat: Add Configurable SSH Host Key Verification Strategy#652](https://github.com/datazip-inc/olake/pull/652)
+
+[(Olake) feat: SSH support for mongodb and oracle drivers#639](https://github.com/datazip-inc/olake/pull/639)
+
 [(Tegon) Fix: Alignment issues when team name has more characters](https://github.com/tegonhq/tegon/pull/264)
 
 [(Revert)    feat: Support for Hubspot associations API #595  ](https://github.com/revertinc/revert/pull/595)   
